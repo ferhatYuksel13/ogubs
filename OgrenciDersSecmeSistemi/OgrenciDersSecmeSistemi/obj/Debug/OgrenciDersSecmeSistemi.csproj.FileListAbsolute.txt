@@ -1,0 +1,13 @@
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\bin\Debug\OgrenciDersSecmeSistemi.exe.config
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\bin\Debug\OgrenciDersSecmeSistemi.exe
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\bin\Debug\OgrenciDersSecmeSistemi.pdb
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.csproj.AssemblyReference.cache
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.Form1.resources
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.Properties.Resources.resources
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.csproj.GenerateResource.cache
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciD.F07DBF1B.Up2Date
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.exe
+C:\Users\sehin\source\repos\OgrenciDersSecmeSistemi\OgrenciDersSecmeSistemi\obj\Debug\OgrenciDersSecmeSistemi.pdb
